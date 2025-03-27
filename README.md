@@ -6,4 +6,5 @@ Geolocalizaciones de caminatas realizadas por participantes de laboratorio los d
 
 Audio de caminata realizada por l@s artistas en 2 de mayo de 2024, donde cada uno comenzó en una sede del MAC (Parque Forestal y Quinta Normal) y caminaron a lo largo de la calle Santo Domingo hasta encontrarse al medio.
 
+### Video resultado (+ audio)
 https://vimeo.com/1021853556
